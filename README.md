@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <img alt="GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=ianrygel&show_icons=true&theme=transparent"/>
+
+[![ianrygel profile views](https://u8views.com/api/v1/github/profiles/778206/views/day-week-month-total-count.svg)](https://u8views.com/github/ianrygel)
